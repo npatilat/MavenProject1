@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18789" started-at="2019-07-27T13:00:15Z" finished-at="2019-07-27T13:00:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18789" started-at="2019-07-27T13:00:15Z" finished-at="2019-07-27T13:00:34Z">
+      <class name="com.facebook.test.GoogleHomePageTest">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.facebook.test.GoogleHomePageTest@36d4b5c]" name="testSetUp" is-config="true" duration-ms="9908" started-at="2019-07-27T18:30:15Z" finished-at="2019-07-27T18:30:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:com.facebook.test.GoogleHomePageTest@36d4b5c]" name="verifyGooglePageTittle" duration-ms="2681" started-at="2019-07-27T18:30:25Z" finished-at="2019-07-27T18:30:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTittle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.test.GoogleHomePageTest@36d4b5c]" name="tearDown" is-config="true" duration-ms="6165" started-at="2019-07-27T18:30:27Z" finished-at="2019-07-27T18:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.test.GoogleHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
